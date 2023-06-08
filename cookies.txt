@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+litecloud.fr	TRUE	/	FALSE	1999999999	WHMCSDLh6emW4HO01	9nt3e5ipmet2c5cmjmqsqau2ip
+.discordapp.com	TRUE	/	FALSE	1999999999	__cf_bm	CPpYO3tiLwsWYAq3iMTmFIHlG0cVx0Uy_01rJdAoYGA-1682771049-0-ARpO93XNb6mneV+1lOXxBPwPoD/CsDihpNT+Zh5SbqQDBLrt+50v3Lhr1o4B2XPohrXNG1kTnYVFz4c2qB9xIH8=
+cdn.discordapp.com	TRUE	/	FALSE	1999999999	SameSite	None
+
